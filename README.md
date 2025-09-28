@@ -24,3 +24,8 @@ Here are some of my projects:
 
 - 📊 [Data Analysis Project](https://data-science-jobs-analytics.streamlit.app/)– Exploratory data science job market with Pandas & Plotly  
 - 🛠️ [More Projects](https://portfolio-carlos-luis-rodriguez-brito.vercel.app/) - Personal portfolio
+
+---
+### 📬 Get in Touch  
+<a href="mailto:carlosl.rodriguez2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/carlos-luis-rodriguez-brito/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
