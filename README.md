@@ -19,13 +19,6 @@
 
 ---
 
-### 📈 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Machine-King&theme=dark&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Machine-King&layout=compact&theme=dark&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Machine-King&show_icons=true&theme=dark&hide_border=true)  
-
----
-
 ### 🌟 Portfolio  
 Here are some of my projects:  
 
