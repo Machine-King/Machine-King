@@ -1,20 +1,19 @@
 # 👋 About Me  
 
-📊 Passionate about **Machine Learning, Statistics, Python, and Data Analysis**.  
+Passionate about **Machine Learning, Statistics, Python, and Data Analysis**.  
 
-🛠️ Hands-on with **Python (Pandas, NumPy, Scikit-learn, Matplotlib, SQL)** and currently exploring **Tableau, Streamlit**.  
+Hands-on with **Python (Pandas, NumPy, Scikit-learn, Matplotlib, SQL)**  
 
-📚 Focused on learning by **building projects that solve real-world problems**.  
+Focused on learning by **building projects that solve real-world problems**.  
 
-🌍 Interested in **contributing to open-source** and **sharing knowledge**. 
-
-🚀 Goal: **Become a Data Scientist capable of transforming data into actionable insights.**  
+Goal: **Become a Data Scientist capable of transforming data into actionable insights.**  
 
 ---
 
 ### 🧰 Tech Stack  
-- **Languages:** Python, SQL  
-- **Libraries & Tools:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+- **Languages:** Python, Java, C++, SQL
+- **Libraries & Tools:** PyTorch, Transformers, Scikit-learn, LangChain, LangGraph, FastAPI, Pandas, NumPy, Docker
+- **Cloud computing:** AWS SageMaker, Lightning AI
 - **Version Control:** Git, GitHub  
 
 ---
@@ -22,8 +21,9 @@
 ### 🌟 Portfolio  
 Here are some of my projects:  
 
-- 📊 [Data Analysis Project](https://data-science-jobs-analytics.streamlit.app/)– Exploratory data science job market with Pandas & Plotly  
-- 🛠️ [More Projects](https://portfolio-carlos-luis-rodriguez-brito.vercel.app/) - Personal portfolio
+- [AI Newsletter](https://ai-newsletter-carlos-rodriguez.vercel.app/) - Website that automatically scrapes news and videos about generative AI, generates summaries, and optionally sends a weekly email digest
+- [Data Analysis Project](https://data-science-jobs-analytics.streamlit.app/)– Exploratory data science job market with Pandas & Plotly  
+- [More Projects](https://portfolio-carlos-luis-rodriguez-brito.vercel.app/) - Personal portfolio
 
 ---
 ### 📬 Get in Touch  
