@@ -189,7 +189,7 @@
 
 <p align="center">
   <a href="https://portfolio-carlos-luis-rodriguez-brito.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-0D1117?style=for-the-badge&labelColor=161B22&color=4EDCF2"/>
+    <img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-0D1117?style=for-the-badge&labelColor=161B22&color=4EDCF2"/>
   </a>
 </p>
 
