@@ -9,58 +9,6 @@
 
 </div>
 
-
-<h3>
-  👋 About Me
-  <br/>
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FD04FE,100:4EDCF2"
-    width="100%"
-    alt=""
-  />
-</h3>
-<img src="assets/about-me.svg" width="100%" alt="About me">
-
-<h3>
-  🧰 Tech Stack
-  <br/>
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FD04FE,100:4EDCF2"
-    width="100%"
-    alt=""
-  />
-</h3>
-
-**PROGRAMMING LANGUAGES**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**LIBRARIES & TOOLS**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/Hugging_Face-0D1117?style=flat-square&logo=huggingface&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**CLOUD COMPUTING**
-
-![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-232F3E?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OCAzNiI+PHRleHQgeD0iMiIgeT0iMjMiIGZvbnQtZmFtaWx5PSJBcmlhbCxzYW5zLXNlcmlmIiBmb250LXNpemU9IjIwIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjZmZmZmZmIj5hd3M8L3RleHQ+PHBhdGggZD0iTTcgMjkgUTIzIDM4IDQwIDI3IiBmaWxsPSJub25lIiBzdHJva2U9IiNGRjk5MDAiIHN0cm9rZS13aWR0aD0iMi40IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz48cGF0aCBkPSJNMzUgMjUgTDQwIDI3IEwzNiAzMSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkY5OTAwIiBzdHJva2Utd2lkdGg9IjIuNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+PC9zdmc+)
-![Lightning AI](https://img.shields.io/badge/Lightning_AI-792EE5?style=flat-square&logo=lightning&logoColor=white)
-
-**VERSION CONTROL**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-
 <h3>
   🌟 Projects
   <br/>
@@ -174,32 +122,54 @@
 </tr>
 </table>
 
-
-<!-- ================= PORTFOLIO FOOTER ================= -->
-
-<p align="center">
-  <img width="100%"
-    src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:FD04FE,100:4EDCF2"
+<h3>
+  🧰 Tech Stack
+  <br/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FD04FE,100:4EDCF2"
+    width="100%"
+    alt=""
   />
-</p>
-
-<h3 align="center">
-  <samp>EXPLORE MORE. BUILD MORE.</samp>
 </h3>
 
-<p align="center">
-  <a href="https://portfolio-carlos-luis-rodriguez-brito.vercel.app/">
-    <img src="https://img.shields.io/badge/VISIT_MY_PORTFOLIO-0D1117?style=for-the-badge&labelColor=161B22&color=4EDCF2"/>
-  </a>
-</p>
+**PROGRAMMING LANGUAGES**
 
-<p align="center">
-  <img width="100%"
-    src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:4EDCF2,100:FD04FE"
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**LIBRARIES & TOOLS**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Hugging_Face-0D1117?style=flat-square&logo=huggingface&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**CLOUD COMPUTING**
+
+![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-232F3E?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0OCAzNiI+PHRleHQgeD0iMiIgeT0iMjMiIGZvbnQtZmFtaWx5PSJBcmlhbCxzYW5zLXNlcmlmIiBmb250LXNpemU9IjIwIiBmb250LXdlaWdodD0iNzAwIiBmaWxsPSIjZmZmZmZmIj5hd3M8L3RleHQ+PHBhdGggZD0iTTcgMjkgUTIzIDM4IDQwIDI3IiBmaWxsPSJub25lIiBzdHJva2U9IiNGRjk5MDAiIHN0cm9rZS13aWR0aD0iMi40IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz48cGF0aCBkPSJNMzUgMjUgTDQwIDI3IEwzNiAzMSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkY5OTAwIiBzdHJva2Utd2lkdGg9IjIuNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+PC9zdmc+)
+![Lightning AI](https://img.shields.io/badge/Lightning_AI-792EE5?style=flat-square&logo=lightning&logoColor=white)
+
+**VERSION CONTROL**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+<h3>
+  📈 GitHub Stats
+  <br/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FD04FE,100:4EDCF2"
+    width="100%"
+    alt=""
   />
-</p>
-
-### 📈 GitHub Stats
+</h3>
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Machine-King&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4EDCF2&icon_color=FD04FE&text_color=C9D1D9" />
