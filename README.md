@@ -115,9 +115,9 @@
 <tr>
 <td width="50%" valign="top">
 
-<h2>
+<h3>
   📰 AI Newsletter
-</h2>
+</h3>
 
 <a href="https://ai-newsletter-carlos-rodriguez.vercel.app/">
   <img width="100%"
@@ -144,9 +144,9 @@
 </td>
 <td width="50%" valign="top">
 
-<h2>
+<h3>
   📊 Data Science Jobs Analytics
-</h2>
+</h3>
 
 <a href="https://data-science-jobs-analytics.streamlit.app/">
   <img width="100%"
