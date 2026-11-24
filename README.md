@@ -9,23 +9,27 @@
 
 </div>
 
-### 👋 About Me  
 
-<p align="center">
-  <img width="100%"
+<h3>
+  👋 About Me
+  <br/>
+  <img
     src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FD04FE,100:4EDCF2"
+    width="100%"
+    alt=""
   />
-</p>
+</h3>
+<img src="assets/about-me.svg" width="100%" alt="About me">
 
-<img src="assets/about-me.svg" height="25" alt="About me">
-
-### 🧰 Tech Stack  
-
-<p align="center">
-  <img width="100%"
+<h3>
+  🧰 Tech Stack
+  <br/>
+  <img
     src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FD04FE,100:4EDCF2"
+    width="100%"
+    alt=""
   />
-</p>
+</h3>
 
 **PROGRAMMING LANGUAGES**
 
@@ -57,33 +61,36 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 
-### 🌟 Projects
-
-<p align="center">
-  <img width="100%"
+<h3>
+  🌟 Projects
+  <br/>
+  <img
     src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FD04FE,100:4EDCF2"
+    width="100%"
+    alt=""
   />
-</p>
+</h3>
+
 <!-- ================= FEATURED PROJECT ================= -->
 
 <h3>
-  🛰️ SpaceSuite — BoK Annotation Tool
+  🛰️ SpaceSuite - BoK Annotation Tool
 </h3>
 
 <p align="center">
   <a href="https://spacesuite-bok-annotation-tool.web.app/">
     <img width="100%"
-      src="assets/projects/spacesuite.png"
+      src="assets/projects/bok.png"
       alt="SpaceSuite BoK Annotation Tool"
     />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-0D1117?style=flat-square&labelColor=161B22&color=4EDCF2"/>
-  <img src="https://img.shields.io/badge/NLP-0D1117?style=flat-square&labelColor=161B22&color=FD04FE"/>
-  <img src="https://img.shields.io/badge/INFORMATION%20RETRIEVAL-0D1117?style=flat-square&labelColor=161B22&color=4EDCF2"/>
-  <img src="https://img.shields.io/badge/PRIVACY--FIRST-0D1117?style=flat-square&labelColor=161B22&color=FD04FE"/>
+  <img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-0D1117?style=flat-square&color=4EDCF2"/>
+  <img src="https://img.shields.io/badge/NLP-0D1117?style=flat-square&color=FD04FE"/>
+  <img src="https://img.shields.io/badge/INFORMATION%20RETRIEVAL-0D1117?style=flat-square&color=4EDCF2"/>
+  <img src="https://img.shields.io/badge/PRIVACY--FIRST-0D1117?style=flat-square&color=FD04FE"/>
 </p>
 
 <p align="center">
@@ -92,37 +99,6 @@
     against the GeoSpace Body of Knowledge (BoK).
   </strong>
 </p>
-
-
-<table align="center" width="90%">
-<tr>
-<td width="50%" align="right" valign="top">
-
-<p align="left"><strong>◈ KEY FEATURES</strong></p>
-
-<p align="left>
-- Hybrid retrieval combining semantic search, BM25 and fuzzy matching.<br/>
-- Client-side AI inference for private document analysis.<br/>
-- Page-level traceability between documents and BoK concepts.<br/>
-- Responsive processing using Web Workers.
-</p>
-
-</td>
-<td width="50%" align="right" valign="top">
-
-<p align="left"><strong>◈ TECHNOLOGIES</strong></p>
-
-<p align="left">
-- Angular &amp; TypeScript<br/>
-- Transformers.js<br/>
-- PDF.js<br/>
-- BM25 &amp; semantic search<br/>
-- Web Workers
-</p>
-
-</td>
-</tr>
-</table>
 
 
 <p align="center">
@@ -145,7 +121,7 @@
 
 <a href="https://ai-newsletter-carlos-rodriguez.vercel.app/">
   <img width="100%"
-    src="assets/projects/ai-newsletter.png"
+    src="assets/projects/news.png"
     alt="AI Newsletter"
   />
 </a>
@@ -158,12 +134,6 @@
 <p>
   Automated platform that collects and summarizes content about Generative AI.
 </p>
-
-**◈ FEATURES**
-
-- Aggregates AI news and videos from different sources.
-- Generates concise summaries.
-- Optional weekly email digests.
 
 <p align="center">
   <a href="https://ai-newsletter-carlos-rodriguez.vercel.app/">
@@ -180,7 +150,7 @@
 
 <a href="https://data-science-jobs-analytics.streamlit.app/">
   <img width="100%"
-    src="assets/projects/jobs-analytics.png"
+    src="assets/projects/job.png"
     alt="Data Science Jobs Analytics"
   />
 </a>
@@ -193,13 +163,6 @@
 <p>
   Interactive analysis of the Data Science job market and technical skills demand.
 </p>
-
-**◈ FEATURES**
-
-- Job-market trends and skills-demand analysis.
-- Data processing with Pandas.
-- Interactive Plotly visualizations.
-- Streamlit dashboard.
 
 <p align="center">
   <a href="https://data-science-jobs-analytics.streamlit.app/">
