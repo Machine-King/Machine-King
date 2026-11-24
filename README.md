@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=20&duration=2500&pause=1000&color=4EDCF2&center=true&vCenter=true&width=1100&height=110&lines=WELCOME%2C+I%27M+CARLOS+RODRIGUEZ;DATA+SCIENCE+%26+AI+RESEARCHER;TRANSFORMING+DATA+INTO+VALUE" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=36&duration=2500&pause=1000&color=4EDCF2&center=true&vCenter=true&width=1100&height=110&lines=WELCOME%2C+I%27M+CARLOS+RODRIGUEZ;DATA+SCIENCE+%26+AI+RESEARCHER;TRANSFORMING+DATA+INTO+VALUE" alt="Typing animation" />
 
 <br/>
 
